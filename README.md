@@ -1,5 +1,6 @@
 # GroupA_LabReview
-Revising how workflow breaks  and how to fix it
+Revising how workflow breaks and how to fix it
 
-## This is what you need to make the project work:
-specs go here
+## changing more stuff to break
+breaking and fixing workflow
+
